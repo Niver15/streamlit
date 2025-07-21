@@ -1,9 +1,5 @@
-jupyter notebook
-os
-matplolib.pyplot
-seaborn
-scikit-learn
 streamlit
-numpy
 pandas
+numpy
 joblib
+scikit-learn
